@@ -1,1 +1,1 @@
-# Pig-Game
+- This Java Swing project simulates the dice game of Pig. Up to two players can play the game.
